@@ -4,7 +4,6 @@
 Allows users to take a picture of receipt. There are different options of payment such as splitting equally, including or excluding tip, or by items ordered. Users can connect their Venmo account so that each person can be charged accordingly.
 
 ### App Idea Evaluation
-// TODO: Evaluate app across the following categories using the App Evaluation Protocol.
 
 - Mobile: Mobile is essential for the calculations of splitting the recipt.Provides alternative options, including splitting by item, or evenly. The camera is used to take pictures of the recipt.
 - Story: For those who have trouble calculating how much each person needs to pay by hand, the app simply does all complex calculations for you. The app promotes productivity when it comes to keeping track and completing any payments you owe to others.
