@@ -1,5 +1,5 @@
 Mobile App Dev - App Brainstorming
-===
+=== .  
 
 ## Favorite Existing Apps - List
 1. Instagram
