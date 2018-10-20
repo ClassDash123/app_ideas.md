@@ -5,7 +5,7 @@ Allows users to take a picture of receipt. There are different options of paymen
 
 ### App Idea Evaluation
 
-- Mobile: Mobile is essential for the calculations of splitting the recipt.Provides alternative options, including splitting by item, or evenly. The camera is used to take pictures of the recipt.
+- Mobile: Mobile is essential for the calculations of splitting the recipt. Provides alternative options, including splitting by item, or evenly. The camera is used to take pictures of the receipt.
 - Story: For those who have trouble calculating how much each person needs to pay by hand, the app simply does all complex calculations for you. The app promotes productivity when it comes to keeping track and completing any payments you owe to others.
 - Market: Groups who generally go out to restaurants to eat.
 - Habit: People use this when in restaurants.
