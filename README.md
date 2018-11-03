@@ -13,7 +13,7 @@ Allows users to take a picture of receipt. There are different options of paymen
 
 ---
 
-###User Stories (Required and Optional)
+### User Stories (Required and Optional)
 
 **Required Must-have Stories**
 
