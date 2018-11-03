@@ -62,17 +62,18 @@ Allows users to take a picture of receipt. There are different options of paymen
 **Flow Navigation** (Screen to Screen)
 
  * Login Screen
-   * Manual Input
+   => Profile Screen
+     => Manual Input Screen
  * Camera Screen
-   * Scan Receipt
- * Manual Input Screen
-   * Manual Input
- * Profile Screen
-   * Profile
+   => Scan Receipt
+ * Manual Input 
+   => Manual Input Screen
+ * Profile 
+   => Profile Screen
  * Payment Choices Screen
-   * Manual Input
+   => Manual Input Screen
  * Group Doc Screen
-   * Group Doc
+   => Group Doc
 ---
 
 ### Wireframes
