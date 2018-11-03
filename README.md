@@ -13,10 +13,66 @@ Allows users to take a picture of receipt. There are different options of paymen
 
 ---
 
-### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+###User Stories (Required and Optional)
 
+**Required Must-have Stories**
+
+ * Users can log in or connect to another payment application (e.g. Venmo, Paypal, bank account)
+ * User can manually put in total amount
+ * User can take a picture of the receipt
+ * User can input the amount of people to split check between
+ * User can decide to either split evenly or customize how much each person owes
+ * User can collaborate with others on a shared check and input different transactions (similar to Google Docs)
+
+**Optional Nice-to-have Stories**
+
+ * Keep record of transactions and receipts
+ * Look up other users and add friends
+ * User can choose to keep account public or private
+ * User can add friends using QR code
+
+## 2. Screen Archetypes
+
+ * Login Screen
+   * Users can log in or connect to another payment application (e.g. Venmo, Paypal, bank account)
+ * Camera Screen
+   * User can take a picture of the receipt
+ * Manual Input Screen
+   * User can manually put in total amount
+ * Profile Screen
+   * Keep record of transactions and receipts
+   * Look up other users and add friends
+   * User can choose to keep account public or private
+   * User can add friends using QR code
+ * Payment Choices Screen
+   * User can input the amount of people to split check between
+   * User can decide to either split evenly or customize how much each person owes
+ * Group Doc Screen
+   * User can collaborate with others on a shared check and input different transactions (similar to Google Docs)
+    
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Manual Input
+ * Scan Receipt
+ * Profile
+ * Group Doc
+
+**Flow Navigation** (Screen to Screen)
+
+ * Login Screen
+   * Manual Input
+ * Camera Screen
+   * Scan Receipt
+ * Manual Input Screen
+   * Manual Input
+ * Profile Screen
+   * Profile
+ * Payment Choices Screen
+   * Manual Input
+ * Group Doc Screen
+   * Group Doc
 ---
 
 ### Wireframes
