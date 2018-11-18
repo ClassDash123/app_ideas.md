@@ -80,6 +80,12 @@ Allows users to take a picture of receipt. There are different options of paymen
 <img src="https://i.imgur.com/uYpa6cp.png" width=600><br>
 
 ---
+## Interactive Prototype Walk-Through
+<img src=http://g.recordit.co/JGux2ixwPI.gif width=200><br>
+<img src=http://g.recordit.co/9XBoVulJzc.gif width=200><br>
+<img src=http://g.recordit.co/Vxml777Gww.gif width=200><br>
+
+---
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
