@@ -77,7 +77,7 @@ Allows users to take a picture of receipt. There are different options of paymen
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+<img src="https://imgur.com/uYpa6cp" width=600><br>
 
 ---
 
