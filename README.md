@@ -90,4 +90,3 @@ Allows users to take a picture of receipt. There are different options of paymen
 ### App Pitch Presentation
 Link: https://docs.google.com/presentation/d/1-nKzwIY1vQLqhHG87cnqAfwv6iUAopqMsz1hnvNv6FI/edit?usp=sharing
 
-
